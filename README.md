@@ -2,9 +2,9 @@
 
 ## 📌 Overview
 
-I built this project to understand how real-world data pipelines are designed using Azure Databricks. The pipeline follows the Medallion Architecture and processes raw data into business-ready insights.
+I built this project to understand how real-world data pipelines are designed using Azure Databricks. It follows the Medallion Architecture (Bronze, Silver, Gold) to process raw data into business-ready insights.
 
-The pipeline ingests raw CSV data, performs transformations, and produces business-ready aggregated output using Delta Lake.
+The pipeline ingests raw CSV data, performs transformations using PySpark, and generates aggregated outputs using Delta Lake.
 
 ---
 
