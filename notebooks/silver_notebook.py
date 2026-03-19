@@ -1,3 +1,5 @@
+#Silver layer read and write
+#-------------------------------------------
 bronze_Path = "/Volumes/workspace/default/my_volume/Bronze_Layer"
 silver_Path = "/Volumes/workspace/default/my_volume/Silver_layer"
 #Read to BRONZE table
