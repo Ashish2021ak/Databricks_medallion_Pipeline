@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This project demonstrates an end-to-end data pipeline built using Azure Databricks following the Medallion Architecture (Bronze, Silver, Gold layers).
+I built this project to understand how real-world data pipelines are designed using Azure Databricks. The pipeline follows the Medallion Architecture and processes raw data into business-ready insights.
 
 The pipeline ingests raw CSV data, performs transformations, and produces business-ready aggregated output using Delta Lake.
 
