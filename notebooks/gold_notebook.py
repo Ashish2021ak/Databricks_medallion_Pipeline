@@ -1,3 +1,5 @@
+#Silver layer Read and Write
+#---------------------------------------------------
 silver_path="/Volumes/workspace/default/my_volume/Silver_layer"
 gold_path="/Volumes/workspace/default/my_volume/Gold_layer"
 # read data from Silver Notebook
